@@ -1,0 +1,25 @@
+# Vision-GPT2 CXR Report Generator
+# Python 3.8+
+
+# Core
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.21.0
+pandas>=1.3.0
+pillow>=9.0.0
+
+# Model
+timm>=0.9.0
+transformers>=4.30.0
+sentencepiece>=0.1.99
+
+# Web App
+streamlit>=1.28.0
+
+# Training (optional)
+tqdm>=4.65.0
+matplotlib>=3.7.0
+
+# Evaluation (optional)
+# sacrebleu>=2.3.0
+# rouge-score>=0.1.2
