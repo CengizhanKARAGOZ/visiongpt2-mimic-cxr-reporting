@@ -135,7 +135,7 @@ print(report)
 
 Model, [MIMIC-CXR](https://physionet.org/content/mimic-cxr/2.0.0/) veri seti üzerinde eğitilmiştir.
 
-- **Eğitim örnekleri:** ~42,000
+- **Eğitim örnekleri:** ~22,354
 - **Doğrulama örnekleri:** ~313
 
 ### Kaggle'da Eğitim
